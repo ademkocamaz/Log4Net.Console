@@ -1,0 +1,1 @@
+2022-04-29 20:43:48,827 [1] INFO  Log4Net.Console.Program [(null)] - Merhaba
