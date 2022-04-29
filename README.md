@@ -1,2 +1,2 @@
 # Log4Net.Console
-Log4Net en basit hali ile çalışan uygulama.
+Log4Net en basit hali ile çalışan konsol uygulaması.
