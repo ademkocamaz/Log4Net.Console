@@ -3,6 +3,7 @@ Log4Net en basit hali ile çalışan konsol uygulaması.
 ### Yapılacaklar
 - AssemblyInfo.cs içerisine [assembly: log4net.Config.XmlConfigurator]
 - App.config içerisine
+
 <configSections>
   <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler, log4net" />
 </configSections>
