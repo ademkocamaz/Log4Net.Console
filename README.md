@@ -11,7 +11,6 @@ App.config içerisine
         <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler, log4net" />
     </configSections>
     <appSettings>
-        <add key="log4net.Config" value="log4.config"/>
         <add key="log4net.Config.Watch" value="True"/>
         <add key="log4net.Internal.Debug" value="False"/>
     </appSettings>
